@@ -1,4 +1,6 @@
-# Faker - Ghanaian extensions
+# Faker - Ghanaian extensions - Work In Progress
+
+>This extension is still in development.
 
 [![Packagist Downloads](https://img.shields.io/packagist/dm/FakerPHP/Ghanaian)](https://packagist.org/packages/fakerphp/Ghanaian)
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/FakerPHP/Ghanaian/Continuous%20Integration/main)](https://github.com/FakerPHP/Ghanaian/actions)
